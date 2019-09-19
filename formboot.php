@@ -156,9 +156,6 @@ if (isset($_POST['Simpan'])) {
   <div class="alert alert-success" role="alert">
       Lulus
     </div> 
- 
- 
- 
  <?php 
 } else if($rata <65){ ?>
   <div class="alert alert-danger" role="alert">
